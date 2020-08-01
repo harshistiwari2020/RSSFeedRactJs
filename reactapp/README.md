@@ -1,6 +1,6 @@
 ## Simple website to show RSS feeds result with ReactJS
 
-### Website alive and running on [Try this app now!](http://feeds.bbci.co.uk/news/rss.xml)
+### Website alive and running on [Try this app now!](https://reactapirss.herokuapp.com/)
 
 # To run locally
 
