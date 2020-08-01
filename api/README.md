@@ -7,7 +7,7 @@
 
 >> 2) Install requirements with: 
 >> ```shell
->>      pip install -r requirement.txt
+>>      pip install -r requirements.txt
 > ### YAY
 >> 3) Run your app
 >> ```python
